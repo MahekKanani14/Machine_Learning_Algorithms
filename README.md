@@ -3,7 +3,7 @@
 Welcome to my personal machine learning repository! 
 Here, I implement various machine learning algorithms to deepen my understanding.
 
-##✅ Algorithms Covered (In Progress)
+## ✅ Algorithms Covered (In Progress)
 
 ### 🔹 Supervised Learning
 -  Linear Regression
